@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../phpdanda"
+		},
+		{
+			"path": "../webalizer"
+		}
+	]
+}
